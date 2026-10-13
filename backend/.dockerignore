@@ -1,0 +1,25 @@
+# Build output
+build/
+.gradle/
+
+# IDE files
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Test reports
+build/reports/
+build/test-results/
+
+# Logs
+*.log
+logs/
+
+# Gradle cache
+.gradle/
